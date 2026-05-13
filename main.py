@@ -1,5 +1,5 @@
 import code1
-import helpers2
+import helpers.helpers2 as helpers2
 
 print("starting app")
 
