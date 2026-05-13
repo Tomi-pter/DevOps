@@ -1,7 +1,7 @@
-import code1
+import functions.functions as functions
 
 def test_add():
-    assert code1.Add(2, 3) == 5
+    assert functions.Add(2, 3) == 5
 
 def test_sub():
-    assert code1.Subtract(5, 3) == 2
+    assert functions.Subtract(5, 3) == 2
